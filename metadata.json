@@ -1,0 +1,6 @@
+{
+  "name": "Eclipse Cafe",
+  "description": "Florida's first functional mushroom coffee cafe and artisanal bakery in Citrus Park, Tampa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
